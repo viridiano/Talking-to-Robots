@@ -1,4 +1,3 @@
----
 If you are a newcomer to the Machine Learning area, the first question you may have is:
 
 ####"Which paper should I start reading from?"
