@@ -15,4 +15,4 @@ Here is a reading roadmap of Machine Learning papers!
 
 ### NEURAL NETWORKS
 
-**[1.2]** Solé, Ricard V. "**Language Networks: Their Structure, Function, and Evolution**."  Universitat Pompeu Fabra (GRIB), Barcelona. (2009). [[download pdf]](https://github.com/viridiano/Talking-To-Robots/blob/master/papers/Sole_Language_Networks_Their_Structure_Function_and_Evolution.pdf) - *(Pequena observação sobre esse artigo)*
+**[2.1]** Solé, Ricard V. "**Language Networks: Their Structure, Function, and Evolution**."  Universitat Pompeu Fabra (GRIB), Barcelona. (2009). [[download pdf]](https://github.com/viridiano/Talking-To-Robots/blob/master/papers/Sole_Language_Networks_Their_Structure_Function_and_Evolution.pdf) - *(Pequena observação sobre esse artigo)*
