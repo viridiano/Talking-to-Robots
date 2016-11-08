@@ -23,9 +23,9 @@ Here is a reading roadmap!
 
 **[1.4]** Allen, James (1994). **Natural Language Understanding (2nd Edition).** Pearson. 654 pages. [[buy from Amazon]](https://www.amazon.com/Natural-Language-Understanding-James-Allen/dp/0805303340)
 
-**[1.5]** Khayrallah, H., Trott, S., & Feldman, J. (2015). **Natural Language For Human Robot Interaction.** *In Proceedings of the Workshop on Human-Robot Teaming at the 10th ACM/IEEE International Conference on Human-Robot Interaction, Portland, Oregon.* [[download pdf]]
+**[1.5]** Khayrallah, H., Trott, S., & Feldman, J. (2015). **Natural Language For Human Robot Interaction.** *In Proceedings of the Workshop on Human-Robot Teaming at the 10th ACM/IEEE International Conference on Human-Robot Interaction, Portland, Oregon.* [[download pdf]](https://github.com/viridiano/Talking-to-Robots/blob/master/papers/khayrallah_trott_feldman_natural_language_for_robot_human_interaction.pdf)
 
-**[1.6]** Fillmore, C. J. (2012). **Encounters with language.** Computational Linguistics, 38(4), 701-718. [[download pdf]]
+**[1.6]** Fillmore, C. J. (2012). **Encounters with language.** Computational Linguistics, 38(4), 701-718. [[download pdf]](https://github.com/viridiano/Talking-to-Robots/blob/master/papers/fillmore_encounters_with_language.pdf)
 
 ### NEURAL NETWORKS
 
