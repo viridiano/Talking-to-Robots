@@ -33,4 +33,4 @@ Here is a reading roadmap!
 
 ### APPLICATIONS
 
-**[4.1]** Khayrallah, H., Trott, S., & Feldman, J. (2015). **Natural Language For Human Robot Interaction.** *In Proceedings of the Workshop on Human-Robot Teaming at the 10th ACM/IEEE International Conference on Human-Robot Interaction, Portland, Oregon.* [[download pdf]](https://github.com/viridiano/Talking-to-Robots/blob/master/papers/khayrallah_trott_feldman_natural_language_for_robot_human_interaction.pdf)
+**[4.1]** Khayrallah, H., Trott, S., & Feldman, J. (2015). **Natural Language For Human Robot Interaction.** In *Proceedings of the Workshop on Human-Robot Teaming at the 10th ACM/IEEE International Conference on Human-Robot Interaction, Portland, Oregon.* [[download pdf]](https://github.com/viridiano/Talking-to-Robots/blob/master/papers/khayrallah_trott_feldman_natural_language_for_robot_human_interaction.pdf)
