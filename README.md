@@ -23,10 +23,14 @@ Here is a reading roadmap!
 
 **[1.4]** Allen, James (1994). **Natural Language Understanding (2nd Edition).** Pearson. 654 pages. [[buy from Amazon]](https://www.amazon.com/Natural-Language-Understanding-James-Allen/dp/0805303340)
 
-**[1.5]** Khayrallah, H., Trott, S., & Feldman, J. (2015). **Natural Language For Human Robot Interaction.** *In Proceedings of the Workshop on Human-Robot Teaming at the 10th ACM/IEEE International Conference on Human-Robot Interaction, Portland, Oregon.* [[download pdf]](https://github.com/viridiano/Talking-to-Robots/blob/master/papers/khayrallah_trott_feldman_natural_language_for_robot_human_interaction.pdf)
+### KNOWLEDGE BASES
 
-**[1.6]** Fillmore, C. J. (2012). **Encounters with language.** Computational Linguistics, 38(4), 701-718. [[download pdf]](https://github.com/viridiano/Talking-to-Robots/blob/master/papers/fillmore_encounters_with_language.pdf)
+**[2.1]** Fillmore, C. J. (2012). **Encounters with language.** Computational Linguistics, 38(4), 701-718. [[download pdf]](https://github.com/viridiano/Talking-to-Robots/blob/master/papers/fillmore_encounters_with_language.pdf)
 
 ### NEURAL NETWORKS
 
-**[2.1]** Solé, R. V., Corominas‐Murtra, B., Valverde, S., & Steels, L. (2010). **Language networks: Their structure, function, and evolution**. Complexity, 15(6), 20-26. [[download pdf]](https://github.com/viridiano/Talking-To-Robots/blob/master/papers/Sole_Language_Networks_Their_Structure_Function_and_Evolution.pdf)
+**[3.1]** Solé, R. V., Corominas‐Murtra, B., Valverde, S., & Steels, L. (2010). **Language networks: Their structure, function, and evolution**. Complexity, 15(6), 20-26. [[download pdf]](https://github.com/viridiano/Talking-To-Robots/blob/master/papers/Sole_Language_Networks_Their_Structure_Function_and_Evolution.pdf)
+
+### APPLICATIONS
+
+**[4.1]** Khayrallah, H., Trott, S., & Feldman, J. (2015). **Natural Language For Human Robot Interaction.** *In Proceedings of the Workshop on Human-Robot Teaming at the 10th ACM/IEEE International Conference on Human-Robot Interaction, Portland, Oregon.* [[download pdf]](https://github.com/viridiano/Talking-to-Robots/blob/master/papers/khayrallah_trott_feldman_natural_language_for_robot_human_interaction.pdf)
