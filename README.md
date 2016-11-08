@@ -1,10 +1,10 @@
-Okay... so you want to build your own robot anf have it discuss with you your plans for world domination. Or... hopefully, you're just a regular ~~nerd~~ person who wants your phone assistance to sound more like Hall and less like... well... a stupid robot.
+Okay... so you want to build your own robot anf have it discuss with you your plans for world domination. Or... hopefully, you're just a regular ~~nerd~~ person who wants your phone assistant to sound more like Hall and less like... well... some stupid robot.
 
-Welcome to Natural Language UnderstandingIf you are a newcomer to the Machine Learning area, the first question you may have is:
+Welcome to Natural Language Understanding, a subfield of Computational Linguistics/AI, devoted to "building models of natural language production and comprehension" (Allen 1988:1). As a newcomer to NLU, the first question you may have is:
 
 ####"Which paper should I start reading from?"
 
-Here is a reading roadmap of Machine Learning papers!
+Here is a reading roadmap of NLU papers!
 
 ###### Note: This repository is a WIP.
 
