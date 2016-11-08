@@ -13,7 +13,7 @@ Here is a reading roadmap of NLU papers!
 
 ### LAYING SOME GROUND (OR... BE READY TO GO AGAINST THE MAINSTREAM)
 
-#####*Books and papers in this section are not exclusively about NLU, but also about rethinking science paradigms and putting them in perspective (you'll soon realize the importance of perspective, by the way). This is due to the fact that NLU acknowledges the importance of curated knowledge bases and (at least some) rules - as opposed to shallow statistics - for the development of talking robots.*
+- *Books and papers in this section are not exclusively about NLU, but also about rethinking science paradigms and putting them in perspective (you'll soon realize the importance of perspective, by the way). This is due to the fact that NLU acknowledges the importance of curated knowledge bases and (at least some) rules - as opposed to shallow statistics - for the development of talking robots.*
 
 **[1.1]** Klosteman, Chuck (2016). **But What If We're Wrong?: Thinking About the Present As If It Were the Past.** Blue Rider Press. 288 pages. [[buy from Amazon]](https://www.amazon.com/But-What-If-Were-Wrong/dp/0399184120)
 
