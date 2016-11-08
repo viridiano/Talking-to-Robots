@@ -2,7 +2,7 @@ Okay... so you want to build your own robot anf have it discuss with you your pl
 
 Welcome to Natural Language Understanding, a subfield of Computational Linguistics/AI, devoted to "building models of natural language production and comprehension" (Allen 1988:1). As a newcomer to NLU, the first question you may have is:
 
-####"Which paper should I start reading from?"
+####"Which books and paper should I start reading from?"
 
 Here is a reading roadmap of NLU papers!
 
