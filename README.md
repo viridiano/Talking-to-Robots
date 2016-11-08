@@ -17,7 +17,7 @@ Here is a reading roadmap of NLU papers!
 
 **[1.1]** Marcelo, inserir livro da Amazon.
 
-**[1.2]** Jones, K. S. (2007). **Computational linguistics: what about the linguistics?**. Computational linguistics, 33(3), 437-441. [[download pdf]](http://www.mitpressjournals.org/doi/pdf/10.1162/coli.2007.33.3.437)
+**[1.2]** Jones, K. S. (2007). **Computational linguistics: what about the linguistics?**. Computational linguistics, 33(3), 437-441. [[download pdf]](https://github.com/viridiano/Talking-to-Robots/blob/master/papers/jones_computational_linguistics_what_about_the_linguistics.pdf)
 
 **[1.3]** Van Valin, Jr. Robert D. (MS) "**From NLP to NLU**." University at Buffalo. [[download pdf]](https://github.com/viridiano/Talking-To-Robots/blob/master/papers/Van_Valin_From_NLP_to_NLU.pdf)
 
