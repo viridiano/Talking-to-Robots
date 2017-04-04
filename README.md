@@ -31,6 +31,10 @@ Here is a reading roadmap!
 
 **[3.1]** Solé, R. V., Corominas‐Murtra, B., Valverde, S., & Steels, L. (2010). **Language networks: Their structure, function, and evolution**. Complexity, 15(6), 20-26. [[download pdf]](https://github.com/viridiano/Talking-To-Robots/blob/master/papers/Sole_Language_Networks_Their_Structure_Function_and_Evolution.pdf)
 
+**[3.2]** Dominey, P., Mealier, AL., Pointeau, G., Mirliaz, S., Finlayson, M. (2017). **Dynamic Construction Grammar and Steps Towards the Narrative Construction of Meaning** The AAAI 2017 Spring Symposium on Computational Construction Grammar and Natural Language Understanding. AAAI Publications. [[download pdf]](https://github.com/viridiano/Talking-to-Robots/blob/master/papers/Dynamic_Construction_Grammar_and_Steps_Towards_the_Narrative_Construction_of_Meaning.pdf)
+
 ### APPLICATIONS
 
 **[4.1]** Khayrallah, H., Trott, S., & Feldman, J. (2015). **Natural Language For Human Robot Interaction.** In *Proceedings of the Workshop on Human-Robot Teaming at the 10th ACM/IEEE International Conference on Human-Robot Interaction, Portland, Oregon.* [[download pdf]](https://github.com/viridiano/Talking-to-Robots/blob/master/papers/khayrallah_trott_feldman_natural_language_for_robot_human_interaction.pdf)
+
+**[4.2]** Arbib, M., Barrès, V., Chang, N., Dominey, P., Spranger, M. (2017). **Can We Already Conceive of a Computational Construction Grammar That Is Adequate to Address the Data of Neurolinguistics?** The AAAI 2017 Spring Symposium on Computational Construction Grammar and Natural Language Understanding. AAAI Publications. [[download pdf]](https://github.com/viridiano/Talking-to-Robots/blob/master/papers/Can_We_Already_Conceive_of_a_Computational_Construction_Grammar_That_Is_Adequate_to_Address_the_Data_of_Neurolinguistics.pdf)
