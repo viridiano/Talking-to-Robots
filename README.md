@@ -38,3 +38,5 @@ Here is a reading roadmap!
 **[4.1]** Khayrallah, H., Trott, S., & Feldman, J. (2015). **Natural Language For Human Robot Interaction.** In *Proceedings of the Workshop on Human-Robot Teaming at the 10th ACM/IEEE International Conference on Human-Robot Interaction, Portland, Oregon.* [[download pdf]](https://github.com/viridiano/Talking-to-Robots/blob/master/papers/khayrallah_trott_feldman_natural_language_for_robot_human_interaction.pdf)
 
 **[4.2]** Arbib, M., Barrès, V., Chang, N., Dominey, P., Spranger, M. (2017). **Can We Already Conceive of a Computational Construction Grammar That Is Adequate to Address the Data of Neurolinguistics?** The AAAI 2017 Spring Symposium on Computational Construction Grammar and Natural Language Understanding. AAAI Publications. [[download pdf]](https://github.com/viridiano/Talking-to-Robots/blob/master/papers/Can_We_Already_Conceive_of_a_Computational_Construction_Grammar_That_Is_Adequate_to_Address_the_Data_of_Neurolinguistics.pdf)
+
+**Maintained with :heart: by viridiano & tttorrent
